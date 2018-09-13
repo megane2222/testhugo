@@ -1,7 +1,7 @@
 baseURL = "http://boulangerie-croissy-beaubourg.org/"
 languageCode = "fr-FR"
 title = "Boulangerie Croissy Beaubourg"
-theme ="hugo-theme-massively"
+theme ="hugo-theme-massively-master"
 
 # [params]
   # set below parameter to define a favicon
