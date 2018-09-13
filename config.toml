@@ -1,3 +1,24 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "http://boulangerie-croissy-beaubourg.org/"
+languageCode = "fr-FR"
+title = "Boulangerie Croissy Beaubourg"
+theme ="hugo-theme-massively"
+
+# [params]
+  # set below parameter to define a favicon
+  # favicon = "favicon.ico"
+
+# Below parameters can be set to override default post settings
+# [params.posts]
+#     foldername = "post"
+#     pagesize = "6"
+#     featuredpost = "true"
+
+[languages]
+[languages.en]
+  languageName = "French"
+[languages.es]
+  languageName = "French"
+  title = "Massively - Versión French"
+#[languages.fr]
+#  languageName = "Français"
+#  title = "Massively - Version Française"
